@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Message Locator</string>
+    <string name="pause">Disable Location</string>
+    <string name="resume">Enable Location</string>
+</resources>
