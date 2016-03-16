@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_f51d7e4c4f6bb51e19af0364f6e0f40ba7c82e2a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.4.0_1e2cb0d017783c271c45a550ada094170d0bd7d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.4.0_f72256059597fca7a461495e448d5f1a98943b93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_dc58179be2191414b611775741c891678e3c8a5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_d8d2a44881249c1dfbab9b608d5c32b8871deecb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_fa77507a20e220c31a4f313d2399aafa97c717bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.4.0_61563e5c7485314fb54528119d703864bf493740.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_28d55795d420b1a438ac4965517495e82641e4cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_96d5c0a3b52d729e187b474e53191869ccb92b66.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.4.0_ac7fb3b69fe60d6ef333aa6c6b248e9f0f55388e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-8.4.0_394fb506856a2697da7d796543fd2dac8ff2d28a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_0d1d7cd817613f288bae55660575486fe84dd19c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_4beeacf2a6e48751c04b28b8b8ab9112c0f91053.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_3c6825fdc2c36d7ee3ac0942e092757c0d584d39.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_79cbbc63e9c470dc3997aad64f8a192ecf61e936.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_322c884d3dfeb61c5c7a86746d1d23885850fb6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.4.0_bffe2ae00edd376dbaabd7bbdfd11afcc701470c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.4.0_6dec90b9b9d44eda0cf4435d39e92a1b939dcf17.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_e5ec3513f016a9f0467d9fd4c31397eaf171c92f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.4.0_c2c575deae731ea7f6d1e2d643435af337a2d2ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_f25747608712ec55794f1acf282cbe0a80814689.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.4.0_4536efec37e086520684cc317d2ab69fcb215d3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_316400792371fc7d3a50d7fccff01939f2459110.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_0593d4a0f8a1b8f3f841c415b634db14ff8646d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.4.0_7a4e0e772f6eee80e627ed14134b87f0b2ecae8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.4.0_af521d5f352eee81039ba934329ebb202944ff12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.4.0_453c75ebb3b530de05e48c5a7b11fc7e3c3d769a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_ab0564c1570d032fa95338b0ca829dc66d9bc1e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.4.0_60823d0e611fe3a771d234d5edd6f1b5e57b948e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.4.0_5f517a1aa1b04b7031c1b16ade07d66725c6300e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Huzzah\OneDrive\AndroidMessageLocator\MessageLocator\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_ab9abc12aede9ba39fd4086322e0d3090fcf6084.jar" />
+    </item>
+
+</items>
