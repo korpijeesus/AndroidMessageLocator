@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Huzzah\\OneDrive\\AndroidMessageLocator\\MessageLocator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Huzzah\\OneDrive\\AndroidMessageLocator\\MessageLocator\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Huzzah\\OneDrive\\AndroidMessageLocator\\MessageLocator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\message_locator.png",
+        "source": "C:\\Users\\Huzzah\\OneDrive\\AndroidMessageLocator\\MessageLocator\\app\\src\\main\\res\\mipmap-hdpi\\message_locator.png"
+    }
+]
