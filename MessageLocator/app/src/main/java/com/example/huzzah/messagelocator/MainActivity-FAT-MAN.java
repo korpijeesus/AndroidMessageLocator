@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     public String longitude;
     public EditText textField;
     public WebView vw;
-    public String getmessage = "http://tunkinpalauttaja.tunk.org/messageget.php"; //vaihda tämä jos haluat vaihtaa serveriä
+    public String getmessage = "http://192.168.1.103/messageget.php"; //vaihda tämä jos haluat vaihtaa serveriä
     private String username = "";
     TextView textView;
 
@@ -151,7 +151,6 @@ public class MainActivity extends AppCompatActivity {
     //Viestinlähetysmetodi, ottaa tekstin textFieldistä, käyttäjän nimen ja koordinaatit ja lähettää ne BackgroundTaskiin parametreina.
     //Päivittää webViewn ja tyhjää textFieldin lopuksi.
     //TODO: tee joku funktio mikä automaattisesti rullaa alas webViewn sen päivittymisen jälkeen
-    //TODO: webViewn päivitys X ajan välein
     public void sendMessage(View view) {
             String text = textField.getText().toString();
             BackgroundTask backgroundtask = new BackgroundTask(this);

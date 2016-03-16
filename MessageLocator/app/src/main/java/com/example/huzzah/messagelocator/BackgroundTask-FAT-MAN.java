@@ -44,7 +44,7 @@ public class BackgroundTask extends AsyncTask<String,Void,String> {
     @Override
     protected String doInBackground(String... params) {
         //PHP-sivun joka vastaanottaa tietoja ja syöttää ne MySQL-tietokantaan
-        String login_url = "http://tunkinpalauttaja.tunk.org/messageboard.php";
+        String login_url = "http://192.168.1.103/messageboard.php";
         String text = params[0];
         String username = params[1];
         String latitude = params[2];
