@@ -22,3 +22,6 @@ TODO:
 -WebViewn vaihtaminen listviewiksi
 -JSON implementaatio
 -Vaihtoehdot datasijainnin ja GPS sijainnin välillä (melko helppo https://github.com/obaro/SimpleLocationApp pohjalta)
+
+
+PS: ASENNA php5-mysql paketti. Ei toimi muuten. Olen ääliö.
